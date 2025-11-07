@@ -3,3 +3,7 @@ git remote add origin repository_link
 git add .
 git commit -m "message"
 git push -u origin branch_name
+git checkout -b new_branch_name
+git add .
+git commit -m "message"
+git push -u origin new_branch_name
